@@ -1,0 +1,121 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  muteAction.cpp
+  MoveByDraggingAction.cpp
+D:\Profile\Projects\Paint For Kids Project\Phase2 Code\Actions\MoveByDraggingAction.cpp(37,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Profile\Projects\Paint For Kids Project\Phase2 Code\Actions\MoveByDraggingAction.cpp(38,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Profile\Projects\Paint For Kids Project\Phase2 Code\Actions\MoveByDraggingAction.cpp(41,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Profile\Projects\Paint For Kids Project\Phase2 Code\Actions\MoveByDraggingAction.cpp(42,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  ResizeAction.cpp
+  RedoAction.cpp
+  UndoAction.cpp
+  playByColorAction.cpp
+  playByBothAction.cpp
+  playByShapeAction.cpp
+  pickHideAction.cpp
+  switchToDrawAction.cpp
+  switchToPlayAction.cpp
+  SelectAction.cpp
+  main.cpp
+  ApplicationManager.cpp
+  Output.cpp
+D:\Profile\Projects\Paint For Kids Project\Phase2 Code\GUI\Output.cpp(494,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Profile\Projects\Paint For Kids Project\Phase2 Code\GUI\Output.cpp(495,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Profile\Projects\Paint For Kids Project\Phase2 Code\GUI\Output.cpp(497,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Profile\Projects\Paint For Kids Project\Phase2 Code\GUI\Output.cpp(498,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Profile\Projects\Paint For Kids Project\Phase2 Code\GUI\Output.cpp(544,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Input.cpp
+  CTriangle.cpp
+  AddRectAction.cpp
+  CRectangle.cpp
+  CFigure.cpp
+  Generating Code...
+  Compiling...
+  windowinput.cpp
+  mousequeue.cpp
+  keyqueue.cpp
+  image.cpp
+D:\Profile\Projects\Paint For Kids Project\Phase2 Code\CMUgraphicsLib\image.cpp(115,29): warning C4018: '<': signed/unsigned mismatch
+  colors.cpp
+  CMUgraphics.cpp
+D:\Profile\Projects\Paint For Kids Project\Phase2 Code\CMUgraphicsLib\CMUgraphics.cpp(257,9): warning C4101: 'iX': unreferenced local variable
+D:\Profile\Projects\Paint For Kids Project\Phase2 Code\CMUgraphicsLib\CMUgraphics.cpp(257,13): warning C4101: 'iY': unreferenced local variable
+D:\Profile\Projects\Paint For Kids Project\Phase2 Code\CMUgraphicsLib\CMUgraphics.cpp(751,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Profile\Projects\Paint For Kids Project\Phase2 Code\CMUgraphicsLib\CMUgraphics.cpp(1164,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Profile\Projects\Paint For Kids Project\Phase2 Code\CMUgraphicsLib\CMUgraphics.cpp(1171,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Profile\Projects\Paint For Kids Project\Phase2 Code\CMUgraphicsLib\CMUgraphics.cpp(1202,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Profile\Projects\Paint For Kids Project\Phase2 Code\CMUgraphicsLib\CMUgraphics.cpp(1210,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Profile\Projects\Paint For Kids Project\Phase2 Code\CMUgraphicsLib\CMUgraphics.cpp(1357,23): warning C4018: '>': signed/unsigned mismatch
+  auxil.cpp
+  CHexagon.cpp
+D:\Profile\Projects\Paint For Kids Project\Phase2 Code\Figures\CHexagon.cpp(31,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Profile\Projects\Paint For Kids Project\Phase2 Code\Figures\CHexagon.cpp(32,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Profile\Projects\Paint For Kids Project\Phase2 Code\Figures\CHexagon.cpp(34,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Profile\Projects\Paint For Kids Project\Phase2 Code\Figures\CHexagon.cpp(35,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Profile\Projects\Paint For Kids Project\Phase2 Code\Figures\CHexagon.cpp(155,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Profile\Projects\Paint For Kids Project\Phase2 Code\Figures\CHexagon.cpp(156,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Profile\Projects\Paint For Kids Project\Phase2 Code\Figures\CHexagon.cpp(158,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Profile\Projects\Paint For Kids Project\Phase2 Code\Figures\CHexagon.cpp(159,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Profile\Projects\Paint For Kids Project\Phase2 Code\Figures\CHexagon.cpp(182,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Profile\Projects\Paint For Kids Project\Phase2 Code\Figures\CHexagon.cpp(183,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Profile\Projects\Paint For Kids Project\Phase2 Code\Figures\CHexagon.cpp(185,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Profile\Projects\Paint For Kids Project\Phase2 Code\Figures\CHexagon.cpp(186,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  CCircle.cpp
+  CSquare.cpp
+  exitAction.cpp
+  StopRecordingAction.cpp
+  StartRecordingAction.cpp
+  SaveAction.cpp
+  PlayRecordingAction.cpp
+  ChangeFillClrAction.cpp
+  ChangeDrawClrAction.cpp
+  DeleteAction.cpp
+  AddSquareAction.cpp
+  AddCircleAction.cpp
+  Generating Code...
+  Compiling...
+  MoveFigureAction.cpp
+  LoadAction.cpp
+  ClearAllAction.cpp
+  AddTriangleAction.cpp
+  AddHexaAction.cpp
+  Generating Code...
+cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  jutils.c
+  jquant2.c
+  jquant1.c
+  jmemnobs.c
+  jmemmgr.c
+D:\Profile\Projects\Paint For Kids Project\Phase2 Code\CMUgraphicsLib\jpeg\jmemmgr.c(1103,19): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Profile\Projects\Paint For Kids Project\Phase2 Code\CMUgraphicsLib\jpeg\jmemmgr.c(1106,11): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  jidctred.c
+  jidctint.c
+  jidctfst.c
+  jidctflt.c
+  jerror.c
+D:\Profile\Projects\Paint For Kids Project\Phase2 Code\CMUgraphicsLib\jpeg\jerror.c(169,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Profile\Projects\Paint For Kids Project\Phase2 Code\CMUgraphicsLib\jpeg\jerror.c(171,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  jdtrans.c
+  jdsample.c
+  jdpostct.c
+  jdphuff.c
+  jdmerge.c
+  jdmaster.c
+  jdmarker.c
+  jdmainct.c
+  jdinput.c
+  jdhuff.c
+  Generating Code...
+  Compiling...
+  jddctmgr.c
+  jdcolor.c
+  jdcoefct.c
+  jdatasrc.c
+  jdapistd.c
+  jdapimin.c
+  jcparam.c
+  jcomapi.c
+  jpegload.c
+D:\Profile\Projects\Paint For Kids Project\Phase2 Code\CMUgraphicsLib\jpegload.c(23,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...
+AddHexaAction.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  PT-Project.vcxproj -> D:\Profile\Projects\Paint For Kids Project\Phase2 Code\Debug\PT Project.exe
